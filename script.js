@@ -8,11 +8,11 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "Who is the President of US?",
-        a: "Florin Pop",
+        question: "Who is the Prime Minister of INDIA?",
+        a: "sachin",
         b: "Donald Trump",
-        c: "Ivan Saldano",
-        d: "Mihai Andrei",
+        c: "obama",
+        d: "Narendra Modi",
         correct: "b",
     },
     {
@@ -24,11 +24,11 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "What year was JavaScript launched?",
+        question: "In which year sheeladitya was born?",
         a: "1996",
-        b: "1995",
+        b: "2002",
         c: "1994",
-        d: "none of the above",
+        d: "1998",
         correct: "b",
     },
 ];
